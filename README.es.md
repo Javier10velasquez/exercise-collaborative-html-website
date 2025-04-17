@@ -13,6 +13,7 @@ Cada alumno trabajará en un archivo diferente para cada parte diferente del sit
 
 2. Vamos a realizar [este diseño](https://github.com/breatheco-de/exercise-collaborative-html-website/blob/master/website/designs/thumb.jpg), y [de esta forma pueden dividirlo entre los estudiantes](https://github.com/breatheco-de/exercise-collaborative-html-website/blob/master/website/designs/guide.jpg?raw=true).
 
+
 3. Cada colaborador tendrá que clonar el nuevo repositorio forkeado por el líder de equipo y desarrollar una parte del sitio web escogido, cada proyecto está dividido en partes dentro del directorio `website/templates/`. Cuando todos tengan su editor de código abierto, pueden iniciar el proyecto con este comando:
 
 ```bash
